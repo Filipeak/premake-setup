@@ -8,7 +8,7 @@ class PremakeValidator:
     premake_version = "5.0.0-beta1"
     premake_zip_url = f"https://github.com/premake/premake-core/releases/download/v{premake_version}/premake-{premake_version}-windows.zip"
     premake_license_url = f"https://raw.githubusercontent.com/premake/premake-core/master/LICENSE.txt"
-    premake_dir = "../vendor/premake/bin"
+    premake_dir = "bin"
 
     @classmethod
     def validate_premake(cls):
