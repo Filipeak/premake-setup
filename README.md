@@ -1,4 +1,4 @@
-# premake-setup
+# Premake Setup
 
 Here are simple scripts to manage premake.
 
